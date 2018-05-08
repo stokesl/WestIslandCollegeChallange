@@ -1,3 +1,5 @@
+//Creates the class of Employees to be used when taking in data. Utilizes the Address class
+
 import { Address } from './address';
 
 export class Employee
