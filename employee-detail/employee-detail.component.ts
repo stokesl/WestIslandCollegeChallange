@@ -10,6 +10,7 @@ import { Employee } from '../employee';
 
 export class EmployeeDetailComponent implements OnInit {
 
+	//Takes as input the Employee class
 	@Input() employee: Employee;
 
   constructor() { }
